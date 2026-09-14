@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Muhammad Hammad 👋
 
-<!--
-**ham-mad0/ham-mad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 *Microbiologist transitioning into Bioinformatics & Computational Biology*
+💻 Focused on Genomics, NGS Data Analysis, and Microbial Bioinformatics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 About Me
+- 🔭 Currently building skills in Linux terminal workflows, NCBI/EMBL-EBI databases, and sequence analysis.
+- 🎯 Aiming to contribute to open-source bioinformatics tools and computational research.
+- 💡 Interested in genomics, transcriptomics, and microbial sequence analysis.
+
+---
+
+### 🛠️ Tools & Technologies
+- *Domain:* Microbiology, Molecular Biology, Computational Biology
+- *OS & Shell:* Linux (Ubuntu), Bash Scripting
+- *Databases:* NCBI, EMBL-EBI, UniProt
+- *Version Control:* Git, GitHub
+
+---
+
+📫 *Connect with me:*
+- *ORCID:* [0009-0000-1165-5019](https://orcid.org/0009-0000-1165-5019)
+- *GitHub:* [@ham-mad0](https://github.com/ham-mad0)
