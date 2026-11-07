@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hammad.memon.3576) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihammad__07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammadmemon901@gmail.com) [![Discord]](https://discord.gg/NhJxKhQya)
-
+I'm on Instagram as @bionexis.bio. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?utm_content=sj00sf1&exln=1nrevtoytcdh7
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux/Ubuntu] ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
